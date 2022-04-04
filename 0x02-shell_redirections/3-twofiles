@@ -1,2 +1,3 @@
 #!/bin/bash
-/etc/passwd[H[B[B[B[Bcat [3~et[C[C[C/etc/passwd /etc/hosts
+/etc/passwd 
+/etc/hosts
